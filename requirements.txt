@@ -1,0 +1,3 @@
+tavily-python
+python-dotenv
+openai
